@@ -1,4 +1,4 @@
-# fastapi
+# Fastapi
 
 Step-step
 - Make venv "python -m venv venv"
@@ -12,6 +12,7 @@ Step-step
 - run "uvicorn main:app --reload"
 - run "127.0.0.1:8000/docs" for docs
 
+# Methods
 | METHOD | DESKRIPSI |
 | ------- | ----- |
 | *GET* | _Mendapatkan data_ |
