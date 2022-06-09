@@ -9,4 +9,5 @@ Step-step
 - run "pip install motor"
 - run "pip install dnspython"
 - make main.py
-- run "uvicorn main:app"
+- run "uvicorn main:app --reload"
+- run "127.0.0.1:8000/docs" for docs
